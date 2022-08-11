@@ -1,0 +1,6 @@
+{
+  "name" : "easimpt-notify package",
+  "description" : "A simple package for easimpt-notify that help to send emails through php",
+  "keywords": ["easimpt", "notification", "email"],
+  "type": "package"
+}
