@@ -18,7 +18,7 @@ Customer
 ", // Note: "content" => will auto format in the email body
 );
 
-$token = 'ea6CpSQAr0f4zRCqBiNkX0kEQMdOwl'; // replace this with your account token from https://notify.easimpt.com
+$token = 'QjALW4SpNfGhIj6BzYGpH6gfXQk7la'; // replace this with your account token from https://notify.easimpt.com
 
 $easimptNotify = new \EasimptNotify\EasimptNotify($token);
 $easimptNotify->setData($data);
