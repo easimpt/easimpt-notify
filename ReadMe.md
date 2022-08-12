@@ -14,7 +14,7 @@ That will look like below.
 ### How to run test: 
 
 just run this command in the root folder of the api 
-1. `php -S localhost:8000` and that will serve as php server for your testing 
+1. `php -S localhost:8001` and that will serve as php server for your testing 
 2. visit http://localhost:8000/basic.php to trigger your first email test
 
 

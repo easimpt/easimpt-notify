@@ -2,16 +2,20 @@
 require_once 'autoloader.php';
 
 $data = array(
-    "from_name" => "Notify",
-    "reply_to_name" => "Fashion Sponge",
-    "reply_to_mail" => "fashionsponge78@gmail.com",
+     "from_name" => "", // optional
+     "reply_to_name" => "", // optional
+     "reply_to_mail" => "", // optional
     "to_name" => "Jesus Erwin Suarez",
     "to_mail" => "mrjesuserwinsuarez@gmail.com",
     "subject" => "This is api testing from customer",
     "content" => "
 Hi There, 
 
-I am glad to test this email api. 
+I am glad to test this email api.   
+  
+  
+   Thank you so much!
+
 
 Best Regards,
 Customer
